@@ -1,10 +1,6 @@
-let add = function (a, b) => {
-  return (a, b);
+let add = function (1, 2) => {
+  return (1, 2);
 };
-
-
-
-document.getElementById('result').innerHTML = add(1, 2);
 
 
 
