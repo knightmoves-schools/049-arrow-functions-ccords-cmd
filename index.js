@@ -1,10 +1,9 @@
-var add = function (1,2) => {
-  return 1+2
-};
+var add = function (a, b) => {return a + b};
 
 
 
-document.getElementById('result').innerHTML = add;
+document.getElementById('result').innerHTML = add(1, 2);
+
 
 
 
