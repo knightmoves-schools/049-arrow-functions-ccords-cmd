@@ -1,2 +1,5 @@
-var add = (1, 2) => return 1 + 2;
+var add = function (1, 2) => {
+  return 1 + 2
+};
+
 
