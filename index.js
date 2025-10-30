@@ -1,6 +1,7 @@
-var add = function add(a, b) => {
-  return a+b;
+var add = function add(1, 2) => {
+  return add(1, 2);
 };
+
 
 
 
